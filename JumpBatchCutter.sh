@@ -19,7 +19,7 @@ done
 
 mkdir videos_temp_long
 cd videos_temp_long
-python3 ../YTHDBatchDownloader/script.py --list ../LINK_LIST.txt
+python3 ../YouTube-HD-Batch-Downloader/script.py --list ../LINK_LIST.txt
 cd ..
 
 FILES=../videos_temp_long/*
