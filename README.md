@@ -12,7 +12,7 @@ Based on:
 
 
 
-## Installation
+## Installation:
 
 ### Linux
 
@@ -60,7 +60,7 @@ So, you are now ready to use the program!
 
 
 
-## Usage
+## Usage:
 
 ### Example
 
