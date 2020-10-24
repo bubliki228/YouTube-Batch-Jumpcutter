@@ -8,7 +8,9 @@ Based on:
 
 - Quakumei's YouTube-HD-Batch-Downloader (https://github.com/Quakumei/YouTube-HD-Batch-Downloader).
 
-  
+
+
+
 
 ## Installation
 
@@ -56,6 +58,8 @@ So, you are now ready to use the program!
 
 
 
+
+
 ## Usage
 
 ### Example
@@ -82,6 +86,8 @@ To crop every *sound* moment in the videos and leave only breath-ins use the fol
 
 * The result will be stored in the `Result` folder.
 
+
+
 ### What do those flags do?
 
 ```
@@ -106,9 +112,15 @@ To crop every *sound* moment in the videos and leave only breath-ins use the fol
 
 ```
 
+
+
 ## Known problems:
 
 -  You can't download copyrighted videos from YouTube directly. You should download it somehow by yourself and put them in `videos_temp_long` folder if you want to process them.
+
+
+
+
 
 ## Author:
 
