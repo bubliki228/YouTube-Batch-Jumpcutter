@@ -106,7 +106,9 @@ To crop every *sound* moment in the videos and leave only breath-ins use the fol
 
 ```
 
+## Known problems:
 
+-  You can't download copyrighted videos from YouTube directly. You should download it somehow by yourself and put them in `videos_temp_long` folder if you want to process them.
 
 ## Author:
 
