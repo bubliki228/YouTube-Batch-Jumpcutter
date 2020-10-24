@@ -1,4 +1,4 @@
-# Youtube-Batch_Jumpcutter
+# Youtube-Batch-Jumpcutter
 
 Python 3 Tool for downloading ***batches*** of ***silence-free*** high quality ***YouTube*** videos. (ffmpeg engine)
 
